@@ -17,7 +17,16 @@ A simple terminal made with Python a little bit inspired on ubuntu terminal
 - get ip (prints your local IP adress)
 - get path (prints the currently directory)
 - get info (prints all information about your computer)
+- get errorscount (prints the count of errors)
+- get errorslog (prints all errors command)
+- get cmdlog (prints count of commands executed)
+- get cmdcount (prints the count of commands)
 
+- run cmd (emulates the windows terminal)
+- run pip (command still work in progress)
+- open (command still work in progress)
+
+- echo (prints what you typed in the echo input)
 - clear (deletes all prints and inputs)
 - pause (i don't know if this command is useful)
 - shutdown (shutdowns the script)
