@@ -32,4 +32,8 @@ A simple terminal made with Python a little bit inspired on ubuntu terminal
 - shutdown (shutdowns the script)
 - shutdown host (shutdown your computer)
 
+# Notes
+
+PyTerm is writen and tested in windows MacOS version will be public later
+
 
