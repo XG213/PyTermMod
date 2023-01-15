@@ -31,9 +31,10 @@ A simple terminal made with Python a little bit inspired on ubuntu terminal
 - pause (i don't know if this command is useful)
 - shutdown (shutdowns the script)
 - shutdown host (shutdown your computer)
+- and more others...
 
 # Notes
 
-PyTerm is writen and tested in windows MacOS version will be public later
+PyTerm is writen and tested on Windows 11 MacOS version will be public later
 
 
