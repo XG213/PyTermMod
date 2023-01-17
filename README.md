@@ -4,10 +4,10 @@
 
 i made it a real terminal lol
 # Q + A
-Q: should i use this?\n
-A: no\n
-Q: why not use a real terminal\n
-A: i wanted to prove a point with this\n
+Q: should i use this?<br/>
+A: no<br/>
+Q: why not use a real terminal<br/>
+A: i wanted to prove a point with this<br/>
 
 # Commands of PyTerm
 its a terminal fool
