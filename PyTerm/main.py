@@ -77,7 +77,10 @@ def pyterm():
         #pre made stuff to stop shit from breaking
         if "cd" in term:
             tmp = term.split()
-            os.chdir(tmp[1])
+            try:
+                os.chdir(tmp[1])
+            except:
+                print("No such file or directory") 
         elif "exit" in term:
             quit()
         else:
